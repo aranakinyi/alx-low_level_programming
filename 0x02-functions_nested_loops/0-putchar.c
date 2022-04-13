@@ -5,7 +5,6 @@
  *
  * Return: nothing, return void
  */
-
 int main(void)
 {
 _putchar('_');
@@ -18,6 +17,5 @@ _putchar('a');
 _putchar('r');
 _putachr('\n');
 return (0);
-
 }
  
